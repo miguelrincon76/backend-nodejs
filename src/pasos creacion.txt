@@ -1,0 +1,12 @@
+//------- Iniciando la configuración del package.json
+npm init -y
+
+//------ Instalar Express
+npm install express
+
+//------ Instalar nodemon
+npm install nodemon
+
+
+crear .gitignore para que no suba al git la carpeta node_modules
+
