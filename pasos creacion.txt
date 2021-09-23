@@ -5,8 +5,11 @@ npm init -y
 npm install express
 
 //------ Instalar nodemon
-npm install nodemon
+npm install -g nodemon
 
 
-crear .gitignore para que no suba al git la carpeta node_modules
+//crear .gitignore para que no suba al git la carpeta node_modules 
+
+verificar en la consola : // node src/index.js enter y verificar en el navegador http:/localhost:3030
+
 

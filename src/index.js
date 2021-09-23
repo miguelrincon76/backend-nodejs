@@ -1,3 +1,4 @@
+// Inicia el servidor
 //Importar express
 const express = require('express');
 const serverRouter = require('./routers/serverRouter');
